@@ -24,10 +24,4 @@ This repository presents a curated collection of academic projects centered on a
 - **FactoMineR** – An R package designed for multivariate data analysis, offering tools to perform methods like Principal Component Analysis (PCA) and Multiple Correspondence Analysis (MCA).
 - **FactoExtra** – A companion R package that works with FactoMineR to help visualize and extract the results of multivariate data analyses in an easy and elegant way.
 
-- ##1 Principal Component Analysis(PCA)
-- ##1 Principal Component Analysis(PCA)
-- ##1 Principal Component Analysis(PCA)
-- ##1 Principal Component Analysis(PCA)
-- ##1 Principal Component Analysis(PCA)
-- ##1 Principal Component Analysis(PCA)
 
