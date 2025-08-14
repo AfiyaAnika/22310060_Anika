@@ -27,6 +27,11 @@ This repository presents a curated collection of academic projects centered on a
 
 ## 1 Prinipal Component Analysis(PCA)  
 Principal Component Analysis (PCA) is a statistical technique used to simplify complex data. Its main goal is to reduce the number of variables in a dataset while retaining as much of the original information as possible.  
-I have used a sample dataset having variables height, weight, age, and gender. The analysis gives us the information on how many factors are enough to explain the 85%+ data variation. That factor count is the selected pricipal components.
+I have used a sample dataset having variables height, weight, age, and gender. The analysis gives us the information on how many factors are enough to explain the 85%+ data variation. That factor count is the selected pricipal components.  
+
+## 2 Covarince Matrix
+A covariance matrix is a square matrix that summarizes the variance and covariance of a set of variables. In essence, it shows how different variables in a dataset change together.  
+I have use **iris** dataset to identify the direction of relationship among the variables.
+
 
 
