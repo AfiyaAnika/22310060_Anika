@@ -31,7 +31,11 @@ I have used a sample dataset having variables height, weight, age, and gender. T
 
 ## 2 Covarince Matrix
 A covariance matrix is a square matrix that summarizes the variance and covariance of a set of variables. In essence, it shows how different variables in a dataset change together.  
-I have use **iris** dataset to identify the direction of relationship among the variables.
+I have use **iris** dataset to identify the direction of relationship among the variables.  
+
+## Factor Analysis(FA)
+Factor analysis is a statistical method used to find a smaller number of unobserved, underlying variables, called factors, from a larger set of observed variables. The main goal is to identify the hidden structure that explains why different variables are correlated with each other.  
+I have done **Confirmatory Factor Analysis**, **Explanatory Factor Analysis(EFA)** and **Multiple Factor Analysis(MFA)** using different dataset. Data and code are given in the corresponding folder.
 
 
 
