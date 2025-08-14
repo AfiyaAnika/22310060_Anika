@@ -39,11 +39,19 @@ I have done **Confirmatory Factor Analysis**, **Explanatory Factor Analysis(EFA)
 
 ## 4 Clustering  
 Clustering is a machine learning technique used to group similar data points together. The goal is to create clusters where the items within a single group are very similar, while items in different groups are distinct. It's considered an "unsupervised" method because we don't provide any pre-labeled examples; the algorithm finds the patterns on its own.  
-I have use UArrests dataset for clustering this clustering analysis.  
+I have use **UArrests** dataset for clustering this clustering analysis.  
 
 ## 5 DBSCAN
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a popular clustering algorithm that groups data points based on how closely they are packed together. Unlike other methods like K-Means, DBSCAN doesn't require you to specify the number of clusters beforehand and can identify clusters of any shape.
-I've created a random sample and implemented DBSCAN to cluster them.
+I've created a random sample and implemented DBSCAN to cluster them.  
+
+## 6 Multidimensional Scaling(MDS
+Multidimensional Scaling (MDS) is a data visualization technique used to create a map of items based on their similarities or dissimilarities. The main goal is to represent the data points in a lower-dimensional space (usually 2D or 3D) while preserving the pairwise distances between them as accurately as possible.  
+I've used **Politicians** dataset for this analysis to reduce the high dimentional data into lower dimention. 
+
+## 7 Correspondence Analysis(CA)
+Correspondence Analysis (CA) is a statistical technique used to visualize the relationships within a table of categorical data (also known as a contingency table or cross-tabulation). It essentially creates a "map" that shows how the categories of two or more variables relate to each other. 
+I have used **UArrests** dataset for this analysis.
 
 
 
