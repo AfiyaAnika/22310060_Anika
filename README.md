@@ -45,7 +45,7 @@ I have use **UArrests** dataset for clustering this clustering analysis.
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a popular clustering algorithm that groups data points based on how closely they are packed together. Unlike other methods like K-Means, DBSCAN doesn't require you to specify the number of clusters beforehand and can identify clusters of any shape.
 I've created a random sample and implemented DBSCAN to cluster them.  
 
-## 6 Multidimensional Scaling(MDS
+## 6 Multidimensional Scaling(MDS)
 Multidimensional Scaling (MDS) is a data visualization technique used to create a map of items based on their similarities or dissimilarities. The main goal is to represent the data points in a lower-dimensional space (usually 2D or 3D) while preserving the pairwise distances between them as accurately as possible.  
 I've used **Politicians** dataset for this analysis to reduce the high dimentional data into lower dimention. 
 
