@@ -25,3 +25,8 @@ This repository presents a curated collection of academic projects centered on a
 - **FactoExtra** – A companion R package that works with FactoMineR to help visualize and extract the results of multivariate data analyses in an easy and elegant way.
 
 
+## 1 Prinipal Component Analysis(PCA)  
+Principal Component Analysis (PCA) is a statistical technique used to simplify complex data. Its main goal is to reduce the number of variables in a dataset while retaining as much of the original information as possible.  
+I have used a sample dataset having variables height, weight, age, and gender. The analysis gives us the information on how many factors are enough to explain the 85%+ data variation. That factor count is the selected pricipal components.
+
+
