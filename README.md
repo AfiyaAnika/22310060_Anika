@@ -33,9 +33,17 @@ I have used a sample dataset having variables height, weight, age, and gender. T
 A covariance matrix is a square matrix that summarizes the variance and covariance of a set of variables. In essence, it shows how different variables in a dataset change together.  
 I have use **iris** dataset to identify the direction of relationship among the variables.  
 
-## Factor Analysis(FA)
+## 3 Factor Analysis(FA)
 Factor analysis is a statistical method used to find a smaller number of unobserved, underlying variables, called factors, from a larger set of observed variables. The main goal is to identify the hidden structure that explains why different variables are correlated with each other.  
-I have done **Confirmatory Factor Analysis**, **Explanatory Factor Analysis(EFA)** and **Multiple Factor Analysis(MFA)** using different dataset. Data and code are given in the corresponding folder.
+I have done **Confirmatory Factor Analysis**, **Explanatory Factor Analysis(EFA)** and **Multiple Factor Analysis(MFA)** using different dataset. Data and code are given in the corresponding folder.  
+
+## 4 Clustering  
+Clustering is a machine learning technique used to group similar data points together. The goal is to create clusters where the items within a single group are very similar, while items in different groups are distinct. It's considered an "unsupervised" method because we don't provide any pre-labeled examples; the algorithm finds the patterns on its own.  
+I have use UArrests dataset for clustering this clustering analysis.  
+
+## 5 DBSCAN
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a popular clustering algorithm that groups data points based on how closely they are packed together. Unlike other methods like K-Means, DBSCAN doesn't require you to specify the number of clusters beforehand and can identify clusters of any shape.
+I've created a random sample and implemented DBSCAN to cluster them.
 
 
 
